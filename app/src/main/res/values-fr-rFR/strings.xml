@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MareeMentions</string>
+    <string name="resume_button">Recommencer</string>
+    <string name="next_stage_message">C\'est vrai!</string>
+    <string name="button_resume">Recommenc</string>
+    <string name="dialog_name_hint">Entrez votre nom</string>
+    <string name="high_score">Scores élevés</string>
+    <string name="button_play">Jouer au Jeu</string>
+    <string name="button_settings">Réglages</string>
+    <string name="switch_sound">Son</string>
+    <string name="menu_theme">Thème</string>
+    <string name="language">Langue</string>
+    <string name="exit_game">"Quitter la Scène "</string>
+    <string name="play_again">Rejouer?</string>
+    <string name="pause_string">En Pause</string>
+    <string name="flash_speed">Vitesse de Flash Rapide</string>
+    <string name="toggle_sound_on">"Activer le Son "</string>
+    <string name="toggle_sound_off">"Désactiver le Son "</string>
+    <string name="save_settings">"Enregistrer les Paramètres "</string>
+    <string name="settings_saved_toast">Paramètres Sauvegardés.</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="button_not_found_somehow">Comment.</string>
+    <string name="save_high_score">"Enregistrer le Meilleur Score "</string>
+    <string name="high_score_saved">Meilleur Score Enregistré.</string>
+    <string name="high_scores_not_found">Impossible de trouver des scores élevés....</string>
+    <string name="send_message_message">Souhaitez-vous envoyer un message à quelqu\'un à propos de ce score?</string>
+    <string name="through_to_messages">"Vous transmettant vos messages .... "</string>
+</resources>

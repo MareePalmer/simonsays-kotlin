@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="colorBackgroundGame">#404040</color>
+    <color name="colorText">#404040</color>
+    <color name="redBase">#D00000</color>
+    <color name="blueBase">#0000D0</color>
+    <color name="greenBase">#009000</color>
+    <color name="yellowBase">#D0D000</color>
+    <color name="litRed">#D88888</color>
+    <color name="litBlue">#8888D8</color>
+    <color name="litGreen">#889888</color>
+    <color name="litYellow">#D8D888</color>
+</resources>
